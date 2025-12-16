@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>About Us ❤️</title>
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:wght@300;500&display=swap" rel="stylesheet">
+<style>
+body{margin:0;height:100vh;background:linear-gradient(#ff4d4d,#fff);
+display:flex;justify-content:center;align-items:center;font-family:'Poppins';}
+.box{background:white;padding:40px;border-radius:25px;width:80%;max-width:700px;
+box-shadow:0 20px 40px rgba(0,0,0,0.2);text-align:center;}
+h1{font-family:'Pacifico';color:#ff4d4d;}
+.btn{padding:12px 25px;margin:10px;border:none;border-radius:999px;
+background:#ff4d4d;color:white;cursor:pointer;}
+</style>
+</head>
+<body>
+
+
+<audio autoplay loop>
+<source src="only-you.mp3" type="audio/mpeg">
+</audio>
+
+
+<div class="box">
+<h1>I'm Sorry 💔</h1>
+<p>
+I apologize my lovely fair angel for leaving you on call alone at night when i alone went to the faraway land of sleep and left you in the land of wakie wakie. You know i was tired but you also know how i promised you to never do such a thing again and welp here we are i made the mistake again which in fact hurted you but you dont wanna sayyy. Im so sorrryyyy for doing it again i promise on my life this will never ever happen again i will try to dont get over stimulated by ur hot voice hehe. Im sorrry love can i get ur forgiveness?
+</p>
+<button class="btn" onclick="go()">YESS</button>
+<button class="btn" onclick="go()">NOO (syabu kys unc)</button>
+</div>
+<script>
+function go(){window.location.href='surprise.html';}
+</script>
+</body>
+</html>
